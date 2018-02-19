@@ -4,3 +4,4 @@
 *.mo
 *.egg
 ext_settings.py
+env
